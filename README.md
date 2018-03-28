@@ -23,6 +23,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Programming in Haskell - Graham Hutton [[Download]](/book/Programming%20in%20Haskell%20-%20Graham%20Hutton.epub)
 * Real World Haskell [[Download]](/book/Real%20World%20Haskell.pdf)
 * Seven Web Frameworks in Seven Weeks [[Download]](/book/Seven%20Web%20Frameworks%20in%20Seven%20Weeks.pdf)
+* The Haskell Road to Logic, Math and Programming [[Download]](/book/The%20Haskell%20Road%20to%20Logic%2C%20Math%20and%20Programming.pdf)
 * Thinking Functionally with Haskell [[Download]](/book/Thinking%20Functionally%20with%20Haskell.epub)
 * Type-driven Development with Idris [[Download]](/book/Type-driven%20Development%20with%20Idris.pdf)
 * Understanding Computation [[Download]](/book/Understanding%20Computation.pdf)
