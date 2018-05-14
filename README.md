@@ -22,6 +22,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Practical Concurrent Haskell - With Big Data Applications [[Download]](/book/Practical%20Concurrent%20Haskell%20-%20With%20Big%20Data%20Applications.pdf)
 * Programming in Haskell - Graham Hutton [[Download]](/book/Programming%20in%20Haskell%20-%20Graham%20Hutton.epub)
 * Real World Haskell [[Download]](/book/Real%20World%20Haskell.pdf)
+* Seven Languages in Seven Weeks [[Download]](/book/Seven%20Languages%20in%20Seven%20Weeks.pdf)
 * Seven Web Frameworks in Seven Weeks [[Download]](/book/Seven%20Web%20Frameworks%20in%20Seven%20Weeks.pdf)
 * The Haskell Road to Logic, Math and Programming [[Download]](/book/The%20Haskell%20Road%20to%20Logic%2C%20Math%20and%20Programming.pdf)
 * Thinking Functionally with Haskell [[Download]](/book/Thinking%20Functionally%20with%20Haskell.epub)
